@@ -1,9 +1,10 @@
+Hello World, I’m Lucas. I'm specialize in data engineering, analytics, and automation, building scalable, high-performance systems. I love optimizing workflows, debugging, and creating infrastructure that enables data-driven decisions.
+
+I thrive on solving complex data challenges—from optimizing ETL pipelines to enhancing data models and improving efficiency. I see AI as a productivity amplifier, helping automate workflows, generate insights, and streamline troubleshooting.
+
+I’m passionate about building impactful solutions with teams that value growth, collaboration, and ethical responsibility.
 
 
-
-
-
-### 🌱 I’m currently learning: Cloud Computing
 
 ### 🔧 Tech Stack  
 **Languages**:  
