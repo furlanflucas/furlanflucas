@@ -1,24 +1,26 @@
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=3000&color=FFFFFF&center=false&width=1000&lines=%23+Initializing...;%23+Executing+furlanflucas_profile.py...;print(%22Hello%2C+World.%22);print(%22Hi+I'm+Lucas.%22);%23+Welcome+to+furlanflucas!">
+<!-- Terminal-inspired Introduction -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=3000&color=FFFFFF&center=true&width=1000&lines=%24+Initializing...;%24+Executing+furlanflucas_profile.py...;print(%22Hello%2C+World.%22);%24+Welcome+to+furlanflucas!">
 </p>
 
-<h2 align="left" style="font-family: 'Fira Code', monospace; color: #4285F4;">👋 About Me</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
-<p style="font-family: 'Fira Code', monospace;">
-  Hello, I'm Lucas! It is nice to have you here. I specialize in <span style="color:#4285F4;">data engineering, analytics, and automation</span>, 
-  building scalable, high-performance systems. I enjoy solving complex data challenges, optimizing workflows, and 
-  creating infrastructure that enables data-driven decisions.
-  <br><br>
-  I'm currently learning <span style="color:#4285F4;">cloud computing</span> and exploring ways to enhance data 
-  engineering workflows with modern cloud technologies.
-</p>
+Hey there! I'm Lucas, a passionate Data Engineer & AI Enthusiast focused on building scalable, high-performance systems and automating workflows. I thrive on solving complex data challenges, optimizing performance, and making data-driven decisions easier.
 
----
+Currently Exploring:
 
-<h2 align="left" style="font-family: 'Fira Code', monospace; color: #4285F4;">🔧 Tech Stack</h2>
+**☁️ Cloud Computing & Serverless Architectures**
 
-<p style="font-family: 'Fira Code', monospace;">
-  <span style="color:#4285F4;">Languages:</span>  
+**⚡ Real-time Data Streaming (Apache Kafka, Spark)**
+
+**🛠️ Modern Data Pipelines & Automation**
+
+🎯 My Goal: To become a Senior Data Engineer and work on high-impact, scalable data infrastructure projects.
+________
+### Tech Stack & Tools
+
+**Languages:**
+</span>  
   <br>
   <img src="https://img.shields.io/badge/Python-4285F4?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4285F4?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -27,7 +29,8 @@
   <img src="https://img.shields.io/badge/HTML5-4285F4?style=for-the-badge&logo=html5&logoColor=white">
   <br><br>
 
-  <span style="color:#4285F4;">Data Engineering Tools:</span>  
+**Data Engineering & Tools:**
+</span>  
   <br>
   <img src="https://img.shields.io/badge/Spark-4285F4?style=for-the-badge&logo=apachespark&logoColor=white">
   <img src="https://img.shields.io/badge/Kafka-4285F4?style=for-the-badge&logo=apachekafka&logoColor=white">
@@ -36,7 +39,9 @@
   <img src="https://img.shields.io/badge/dbt-4285F4?style=for-the-badge&logo=dbt&logoColor=white">
   <br><br>
 
-  <span style="color:#4285F4;">Cloud & Databases:</span>  
+
+**Cloud & Infrastructure:**
+</span>  
   <br>
   <img src="https://img.shields.io/badge/AWS-4285F4?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
@@ -45,27 +50,34 @@
   <img src="https://img.shields.io/badge/Azure_DevOps-4285F4?style=for-the-badge&logo=azure-devops&logoColor=white">
 </p>
 
----
+### 📂 Featured Projects
 
-<h2 align="left" style="font-family: 'Fira Code', monospace; color: #4285F4;">📊 GitHub Stats</h2>
+**🚀 Kafka Streaming Fraud Detection**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=furlanflucas&show_icons=true&theme=github_dark&title_color=4285F4&icon_color=4285F4">
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=furlanflucas&theme=github-dark&color=4285F4">
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furlanflucas&theme=github-dark&ring=4285F4&fire=4285F4&currStreakLabel=4285F4">
-</p>
+🔹 Technologies: Apache Kafka, Spark, Python
 
----
+🔹 Summary: Real-time fraud detection pipeline using Kafka Streams and ML models to flag anomalies.
 
-<h2 align="left" style="font-family: 'Fira Code', monospace; color: #4285F4;">📫 Connect with Me</h2>
+**📊 Automated Looker Dashboard for Fraud Analytics**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/furlanflucas/">
-    <img src="https://img.shields.io/badge/LinkedIn-4285F4?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:furlanflucas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+🔹 Technologies: Looker, SQL, dbt
+
+🔹 Summary: Created an interactive dashboard to analyze fraud trends, reducing errors by 65%.
+
+**💡 ETL Pipeline for Data Lake**
+
+🔹 Technologies: Apache Airflow, AWS S3, Redshift
+
+🔹 Summary: A scalable ETL pipeline to ingest, transform, and store large datasets in a cloud-based data lake.
+
+
+
+
+### 📊 GitHub Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=furlanflucas&show_icons=true&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF"> <br><br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=furlanflucas&theme=tokyo-night&color=00FFFF"> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=furlanflucas&theme=tokyonight&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"> </p>
+
+### 🌍 Connect With Me
+
+<p align="center"> <a href="https://www.linkedin.com/in/furlanflucas/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:furlanflucas@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://github.com/furlanflucas"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </p> 
+
+
