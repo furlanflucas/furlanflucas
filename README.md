@@ -50,34 +50,42 @@ ________
   <img src="https://img.shields.io/badge/Azure_DevOps-4285F4?style=for-the-badge&logo=azure-devops&logoColor=white">
 </p>
 
-### 📂 Featured Projects
+### 🚀 Featured Projects
 
-**🚀 Kafka Streaming Fraud Detection**
+Here are some highlighted projects that showcase my expertise:
 
-🔹 Technologies: Apache Kafka, Spark, Python
-
-🔹 Summary: Real-time fraud detection pipeline using Kafka Streams and ML models to flag anomalies.
-
-**📊 Automated Looker Dashboard for Fraud Analytics**
-
-🔹 Technologies: Looker, SQL, dbt
-
-🔹 Summary: Created an interactive dashboard to analyze fraud trends, reducing errors by 65%.
-
-**💡 ETL Pipeline for Data Lake**
-
-🔹 Technologies: Apache Airflow, AWS S3, Redshift
-
-🔹 Summary: A scalable ETL pipeline to ingest, transform, and store large datasets in a cloud-based data lake.
-
-
+- **[Real-Time Fraud Detection](./data_engineering/real_time_fraud_detections/)** – Implemented a real-time fraud detection system using **Apache Kafka and Spark**, enhancing transaction security.
+- **[Cloud Data Warehouse for Music Analytics](./data_engineering/cloud_data_warehouse_for_music_analytics/)** – Designed a **cloud-based data warehouse** for analyzing music streaming data efficiently.
+- **[STEDI Human Balance Analytics](./data_analysis/STEDI_Human_Balance_Analytics/)** – Analyzed human balance data to assess **stability and movement patterns**.
+- **[Carbon Emissions Analysis](./data_analysis/carbon_emissions_analysis/)** – Examined **global carbon emissions trends** and their impact using data visualization techniques.
+- **[Data Pipelines with Apache Airflow](./data_engineering/data-pipelines-with-airflow/)** – Built and orchestrated **automated ETL pipelines** leveraging **Apache Airflow**.
 
 
 ### 📊 GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=furlanflucas&show_icons=true&theme=tokyonight&title_color=00FFFF&icon_color=00FFFF"> <br><br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=furlanflucas&theme=tokyo-night&color=00FFFF"> <br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=furlanflucas&theme=tokyonight&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"> </p>
 
-### 🌍 Connect With Me
+---
 
-<p align="center"> <a href="https://www.linkedin.com/in/furlanflucas/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:furlanflucas@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://github.com/furlanflucas"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </p> 
+
+## **📬 Contact Information**
+
+<p align="center"> 
+<a href="https://www.linkedin.com/in/furlanflucas/"> 
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> 
+</a> 
+<a href="mailto:furlanflucas@gmail.com"> 
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+</a> 
+<a href="https://github.com/furlanflucas"> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> 
+</a> 
+</p>
+  
+
+
+
+  
+
+
 
 
