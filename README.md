@@ -16,8 +16,6 @@ Currently Exploring:
 
 **📈 Real-time Data Pipelines & Analytics (Kinesis, Kafka, EMR, Redshift)**
 
-🎯 My Goal: To become a Senior Solutions Architect, capable of designing flexible, production-grade cloud systems that support innovation and growth.
-
 ___
 
 ### 🛠️ Tech Stack & Tools
