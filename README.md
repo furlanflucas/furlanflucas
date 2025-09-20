@@ -41,10 +41,25 @@ I thrive on solving real-world challenges through end-to-end system design — c
 
 <h2 align="left" style="font-family:Orbitron">🚀 Projects (Under Construction)</h2>
 
-Stay tuned... exciting builds are coming soon!  
 
+### 📍 [Geospatial Data Quality Monitor](https://github.com/furlanflucas/data_engineering/tree/main/geospatial_data_quality_pipeline)
+**Overview**  
+This project simulates a geospatial data quality pipeline designed to ensure high-accuracy mapping datasets. It fetches road network data from **OpenStreetMap (OSM)**, detects roads with missing speed limits, and visualizes anomalies using **Folium maps** within a **Streamlit dashboard**.
 
+---
 
+### 🔒 [Real-Time Fraud Detection](https://github.com/furlanflucas/data_engineering/tree/main/real_time_fraud_detections)
+**Overview**  
+This project simulates an **AWS-based real-time fraud detection pipeline** using **Apache Kafka** for event streaming, **Python** for data processing, and **Streamlit** for visualization.  
+In a production environment, this system could leverage **AWS MSK (Managed Streaming for Apache Kafka)**, **AWS Lambda**, **DynamoDB**, and **SageMaker** for fraud detection.
+
+---
+
+### 🎵 [Cloud Data Warehouse for Music Analytics](https://github.com/furlanflucas/data_engineering/tree/main/cloud_data_warehouse_for_music_analytics)
+**Overview**  
+This project demonstrates the creation of a **scalable, cloud-based data warehouse** using **AWS Redshift**.  
+The primary goal is to process and analyze song play data collected from user logs and song metadata.  
+The project implements a **star schema** optimized for analytical queries and an **ETL pipeline** to efficiently **extract, transform, and load (ETL)** data from **Amazon S3 into Redshift**.
 
 
 ---
